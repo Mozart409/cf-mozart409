@@ -33,7 +33,7 @@
     "prettier": "^2.8.8",
     "tailwindcss": "^3.3.2",
     "typescript": "^5.0.4",
-    "wrangler": "^2.15.1"
+    "wrangler": "^2.20.1"
   },
   "engines": {
     "node": ">=16.13"
